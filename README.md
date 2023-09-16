@@ -1,5 +1,5 @@
 # CV
-used to store my learning material and homework of CV lecutre
+used to store my learning material and homework of ML 4360
 
 学习过程中参考的一些文章：
 + 单应性估计（homograph）：https://zhuanlan.zhihu.com/p/74597564
