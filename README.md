@@ -10,5 +10,7 @@ used to store my learning material and homework of ML 4360
 + 奇异值分解的原理与应用：https://zhuanlan.zhihu.com/p/36546367
 + 奇异值分解的意义：https://blog.csdn.net/du_shuang/article/details/81252214
 + 奇异值分解求解单应性矩阵：https://zhuanlan.zhihu.com/p/464750737
++ 对极几何以及相机位置变化矩阵的确定：https://zhuanlan.zhihu.com/p/368843742
++ SIFT特征提取（看不懂，但或许openCV中有现成可套用的模板）：B站搜索SIFT
   
 
