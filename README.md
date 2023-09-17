@@ -15,5 +15,6 @@ used to store my learning material and homework of ML 4360
 + **计算摄影学集合：https://zhuanlan.zhihu.com/p/570452119（IMPORTANT）**
 + 最小二乘：https://blog.csdn.net/MoreAction_/article/details/106443383
 + 奇异值分解求解最小二乘：https://blog.csdn.net/qq_35987777/article/details/109557291
++ 协方差与相关系数：https://www.zhihu.com/question/20852004
   
 
